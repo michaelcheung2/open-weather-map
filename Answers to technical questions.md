@@ -1,6 +1,6 @@
 1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 
-I spent approximately 4 hours on the coding test. The following area areas of improvement that I would work on if I had more time:
+I spent approximately 5 hours on the coding test. The following area areas of improvement that I would work on if I had more time:
 
 * weather icon images for each date (I also couldn't fetch a google map of the data because the provided API key doesn't work for the "Weather Maps" API)
 * more styling
