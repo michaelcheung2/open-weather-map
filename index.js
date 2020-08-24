@@ -38,8 +38,7 @@ function populateCurrentConditions(result) {
                                 Wind Speed: ${result.wind.speed}<br/>
                                 Wind Cardinal Direction: ${ConvertWindDirectionToText(result.wind.deg)}<br/>
                                 Sunrise: ${ConvertUnixTimestampToTime(result.sys.sunrise)}<br/>
-                                Sunset: ${ConvertUnixTimestampToTime(result.sys.sunset)}<br/><br/>
-                                `;
+                                Sunset: ${ConvertUnixTimestampToTime(result.sys.sunset)}<br/><br/>`;
     }
 
     if (divRawData) {
