@@ -1,4 +1,5 @@
 # open-weather-map
+![alt text](https://github.com/michaelcheung2/open-weather-map/blob/master/screenshot.JPG?raw=true)
 
 ## Author
 Michael Cheung
